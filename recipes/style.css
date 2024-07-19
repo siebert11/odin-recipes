@@ -1,0 +1,21 @@
+*
+{
+    background-color: orange;
+}
+
+.title1
+{
+    font-family: sans-serif;
+    color: beige;
+}
+#body1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+}
+#body2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
